@@ -12,7 +12,7 @@
 <br>
 
 <div align="right">
-    <a href="./README.md" target="_blank">
+    <a href="./translation/README.es.md" target="_blank">
       <img src="./doc/assets/icons/translation/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="./README.md" target="_blank">
